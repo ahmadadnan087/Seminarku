@@ -1,16 +1,12 @@
 # seminarku_1
 
-A new Flutter project.
+Aplikasi seminarku merupakan sebuah aplikasi mobile berbasis android yang menjadi wadah dalam mencari informasi terkait seminar. Aplikasi ini bertujuan untuk memudahkan seseorang dalam mencari seminar, memesan seminar, menyebarkan informasi umum terkait seminar, serta mengingatkan terkait seminar yang di ikuti.
 
-## Getting Started
+Flutter app
 
-This project is a starting point for a Flutter application.
+Oleh 
+Ahmad Adnan Shadiqin (3311901087), 
+Erna Nadira (3311901008), 
+Indah Fauziyyah (3311901060)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
