@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370509091494",
+    "project_id": "seminarku-26007",
+    "storage_bucket": "seminarku-26007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370509091494:android:efc3ab84a1fbad67279a67",
+        "android_client_info": {
+          "package_name": "com.example.seminarku_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370509091494-j5me2ph54t5oeuil2sohegvk7acjm8bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPMpV8KCXsKzz_PdEoctM7Rnl4vN9h6TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370509091494-j5me2ph54t5oeuil2sohegvk7acjm8bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
